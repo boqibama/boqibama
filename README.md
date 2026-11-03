@@ -4,7 +4,7 @@ I'm a business student at **USC Marshall** who likes building small, useful thin
 
 📍 Los Angeles · 🎓 USC '30, B.S. Business Administration
 
-### 🔨 Projects
+### Projects
 
 | Project | What it is | Built with |
 | --- | --- | --- |
