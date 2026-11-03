@@ -1,20 +1,10 @@
-## Hi, I'm Ryan 👋
+Hey, I'm Ryan
 
-I'm a business student at **USC Marshall** who likes building small, useful things where business and tech meet: games, browser tools, and products for everyday problems.
+Freshman at USC Marshall. I'm a business major but I keep ending up building stuff.
 
-📍 Los Angeles · 🎓 USC '30, B.S. Business Administration
+What I've made:
+- **[Afterimage](https://github.com/boqibama/afterimage)**: a drawing flashes for 10 seconds and you redraw it from memory. It's scored like an eye exam. [Play it here](https://boqibama.github.io/afterimage/)
+- **[Brightspace Grades](https://github.com/boqibama/brightspace)**: Chrome extension that puts all my Brightspace grades on one screen
+- **Basketball props tool**: building it with friends, coming soon
 
-### Projects
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [**Afterimage**](https://github.com/boqibama/afterimage) | A daily drawing memory game styled like an eye exam: study a drawing for 10 seconds, redraw it from memory, get your vision score. **[▶️ Play](https://boqibama.github.io/afterimage/)** | HTML, CSS, JavaScript |
-| [**Brightspace Grades Dashboard**](https://github.com/boqibama/brightspace) | Chrome extension that shows grades from every Brightspace (D2L) course in one place. It runs locally with your existing login. | JavaScript, Chrome Extensions (MV3) |
-
-### Tools
-`JavaScript` `HTML` `CSS` `Chrome Extensions` `Excel / Google Sheets` `Canva` `DaVinci Resolve`
-
-### Also
-- Published lipid nanoparticle research at the University of Oklahoma and research regrading oleic acid at the University of California, Davis
-- Co-founded an online educational nonprofit
-- Member of Trojan Consulting Club at USC
+Before USC: nanoparticle research at OU, Public Forum debate captain, a lot of travel hockey.
